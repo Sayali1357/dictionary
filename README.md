@@ -1,3 +1,3 @@
 # dictionary
 This is my firstgitrepository
-i love cooding
+I love cooding.
